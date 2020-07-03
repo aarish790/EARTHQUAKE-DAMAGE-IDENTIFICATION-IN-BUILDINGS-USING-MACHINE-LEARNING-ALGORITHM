@@ -13,4 +13,5 @@ Random forest Regressor and ANN are used together to achieve the desired result.
 Arbitary values were passed into both to check the result of both the algorithm.
 
 FOR DATASETS CONTACT AT "mdaarishsid790@gmail.com"
+Refer to PPT for the help regarding understanding the project. 
 
