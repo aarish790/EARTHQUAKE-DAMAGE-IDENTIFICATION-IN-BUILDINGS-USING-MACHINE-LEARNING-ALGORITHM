@@ -6,7 +6,7 @@ There is a building structure which has 30 joints.
  
 At every joint there is an accelerometer attached, which gives the reading of earthquake sensed at that joint.
 
-Cited from – Qatar University Grandstand Simulator                                                                                                            http://www.structuraldamagedetection.com/benchmark/qugs/
+Help regarding Project was taken from – Qatar University Grandstand Simulator                                                                                                            http://www.structuraldamagedetection.com/benchmark/qugs/
 
 
 In this project I have used only three joints readings.
