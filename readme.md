@@ -1,5 +1,7 @@
 # EARTHQUAKE-DAMAGE-IDENTIFICATION-IN-BUILDINGS-USING-MACHINE-LEARNING-ALGORITHM
 
+ The model identiﬁes the condition of building i.e whether it is damaged or undamaged, and if it is damaged then it identiﬁes which joint was damaged speciﬁcally.
+
 ## Structure Details
 
 There is a building structure which has 30 joints. 
@@ -36,5 +38,6 @@ Arbitary values were passed into both to check the result of both the algorithms
 Due to the large size of datasets, they cannot be uploaded to github.
 FOR DATASETS CONTACT AT mdaarishsid790@gmail.com.
 
-Refer to PPT for help regarding understanding the project. 
+Refer to PPT for help regarding understanding the project.
+https://github.com/aarish790/EARTHQUAKE-DAMAGE-IDENTIFICATION-IN-BUILDINGS-USING-MACHINE-LEARNING-ALGORITHM/blob/master/EARTHQUAKE%20DAMAGE.pptx
 
