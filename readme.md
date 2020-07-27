@@ -1,6 +1,6 @@
 # EARTHQUAKE-DAMAGE-IDENTIFICATION-IN-BUILDINGS-USING-MACHINE-LEARNING-ALGORITHM
 
- The model identiﬁes the condition of building i.e whether it is damaged or undamaged, and if it is damaged then it identiﬁes which joint was damaged speciﬁcally.
+ The model identiﬁes condition of the building i.e whether it is damaged or undamaged, and if it is damaged then it identiﬁes which joint was damaged speciﬁcally.
 
 ## Structure Details
 
